@@ -1,5 +1,4 @@
 # Jenkins-GitHub Integration Project
-
 Automate your project builds with seamless integration between Jenkins and GitHub! This project provides a step-by-step guide to set up a robust CI/CD pipeline on an EC2 instance, allowing you to focus on development while Jenkins takes care of the heavy lifting.
 
 ## Installation Guide
